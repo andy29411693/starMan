@@ -1,0 +1,2 @@
+# starMan
+dude collects coins
